@@ -1,0 +1,28 @@
+{
+  "name": "gaia-configer",
+  "version": "0.0.1",
+  "author": "Greg Weng <gweng@mozilla.com>",
+  "description": "a standalone configuration builder for Mozilla Gaia (NPM sucks on previous version)",
+  "main": "./builder.js",
+  "contributors": [
+    {
+      "name": "Greg Weng",
+      "email": "gweng@mozilla.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowmantw/gaia-config-builder.git"
+  },
+  "keywords": [
+    "cli",
+    "config",
+    "mozilla-gaia"
+  ],
+  "dependencies": {},
+  "analyze": false,
+  "license": "GPLv3",
+  "engines": {
+    "node": ">=0.6"
+  }
+}
